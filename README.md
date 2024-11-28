@@ -1,4 +1,4 @@
-# 🥗 nutrAItionist
+# 🥗 NutrAItionist
 
 [NutrAItionist](https://nutraitionist-img-394760298091.us-central1.run.app/) is an **AI-powered nutritionist** designed to provide personalized advice on nutrition topics based on user goals and information.  
 Built with **Streamlit**, it uses **Langflow** for AI flow development and integrates a **vectorized database in Astra DB** for efficient data management and retrieval. Whether you're looking to improve your diet, reach your health goals, or learn more about nutrition, NutrAItionist has you covered!
